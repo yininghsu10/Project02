@@ -14,9 +14,9 @@
 * 步驟一：資料來源</br>
 ![p2](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p2.png)
 ![p3](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p3.png)
-* 步驟二：爬蟲</br>
+* 步驟二：爬蟲(Costco臉書社團)</br>
 ![p4](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p3.png)
-* 步驟三：資料前處理</br>
+* 步驟三：資料前處理(斷詞、統計字詞出現次數、儲存到MongoDB)</br>
 ![p5](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p5.png)
 ![p6](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p6.png)
 ![p7](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p7.png)
