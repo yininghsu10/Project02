@@ -15,12 +15,14 @@
 ![p2](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p2.png)
 ![p3](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p3.png)
 * 步驟二：爬蟲(Costco FB社團)</br>
+`儲存位置：MongoDB`</br>
 ![p4](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p4.png)
-* 步驟三：資料前處理(斷詞、統計字詞出現次數、儲存到MongoDB)</br>
+* 步驟三：資料前處理(讀取MongoDB內文檔、斷詞、統計字詞出現次數、儲存到MongoDB)</br>
 ![p5](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p5.png)
 ![p6](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p6.png)
 ![p7](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p7.png)
 * 步驟四：爬蟲(Costco官網)</br>
+`儲存位置：MongoDB`</br>
 ![p8](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p8.png)
 * 步驟四：模糊比對</br>
 ![p9](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p9.png)
