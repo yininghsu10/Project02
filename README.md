@@ -30,6 +30,6 @@
 ### 五、成果展示</br>
 ![ui](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/1.0.jpeg)
 ### 六、現行問題</br>
-![p12](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p11.png)
+![p12](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p12.png)
 ### 七、未來展望</br>
 ![p13](https://github.com/yininghsu10/Project02/blob/main/%E4%BB%8B%E9%9D%A2%E5%9C%96%E7%89%87/p13.png)
